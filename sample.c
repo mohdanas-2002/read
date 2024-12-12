@@ -1,7 +1,18 @@
-#include <stdio.h>
-
-int main() {
-    printf("Hello, World!\n");
-    return 0;
+void main()
+{
+	print("text code");
+	print("text code");
+	print("text code");
+	print("text code");
+	print("text code");
+	print("text code");
+	print("text code");
+	print("text code");
+	print("text code");
+	print("text code");
+	print("text code");
+	print("text code");
+	print("text code");
+	print("text code");
 }
 
