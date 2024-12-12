@@ -6,6 +6,14 @@ void Sub()
 {
 	c=a-b
 }
+void Mul()
+{
+	c=a*b
+}
+void Div 
+{
+	c=a/b
+}
 
 
 
